@@ -1,0 +1,32 @@
+  pnpm run dev
+    Starts the development server.
+
+  pnpm run build
+    Builds the app for production.
+
+  pnpm start
+    Runs the built app in production mode.
+
+We suggest that you begin by typing:
+
+  cd nextjs-dashboard
+  pnpm run dev
+
+===============
+pnpm i	-> install project packages
+pnpm dev  -> run in dev mode
+
+===========
+Automatically produce record type definitions out of the database:
+- Prisma
+- Drizzle
+
+A library that lets you toggle class names:
+- clsx
+
+Optimizing images
+Image Optimization Docs -> https://nextjs.org/docs/app/building-your-application/optimizing/images
+Font Optimization Docs -> https://nextjs.org/docs/app/building-your-application/optimizing/fonts
+Improving Web Performance with Images (MDN) -> https://developer.mozilla.org/en-US/docs/Learn/Performance/Multimedia
+Web Fonts (MDN) -> https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts
+How Core Web Vitals Affect SEO -> https://vercel.com/blog/how-core-web-vitals-affect-seo
